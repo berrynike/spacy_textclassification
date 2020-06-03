@@ -1,0 +1,11 @@
+name: spacy_textclassification
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - pandas
+  - numpy
+  - plotly
+  - spacy
+  - scikit-learn
+prefix: C:\Users\James\anaconda3\envs\spacy_textclassification
